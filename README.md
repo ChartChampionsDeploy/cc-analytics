@@ -13,7 +13,7 @@ A fast way to get up and running is to use Railway
 See [Running on Railway](https://umami.is/docs/running-on-railway) to get started.
 
 ## Installing from source
-
+ 
 ### Requirements
 
 - A server with Node.js 12 or newer
